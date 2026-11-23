@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-labelledby="t d">
+  <title id="t">Brief and Details icon</title>
+  <desc id="d">A teal rounded square with two short white summary bars on top and a collapsed disclosure triangle with a faint bar below.</desc>
+  <rect width="128" height="128" rx="26" fill="#0F766E"/>
+  <rect x="26" y="28" width="76" height="10" rx="5" fill="#FFFFFF"/>
+  <rect x="26" y="48" width="52" height="10" rx="5" fill="#FFFFFF"/>
+  <path d="M28 76 L44 86 L28 96 Z" fill="#99F6E4"/>
+  <rect x="52" y="80" width="50" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.35"/>
+</svg>
