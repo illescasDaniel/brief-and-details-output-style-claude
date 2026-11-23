@@ -6,6 +6,8 @@ A Claude Code output style that ends every substantive reply with a short, plain
 
 ## What you get
 
+![A substantive reply starts with a summary, optionally offers next steps, and ends with details; details can be collapsible or shown under a plain heading.](assets/infographic.svg)
+
 | Part | Content |
 |---|---|
 | **Summary** | 2-4 bullets in simple language: what was done and the outcome, including anything that failed, was skipped or is unverified. |
@@ -46,6 +48,7 @@ Then run `/output-style` and choose **Brief and Details**.
 
 - [`brief-and-details.md`](brief-and-details.md): the output style.
 - [`assets/icon.svg`](assets/icon.svg): the icon, hand-written SVG with title and description.
+- [`assets/infographic.svg`](assets/infographic.svg): the reply structure and details display infographic.
 - [`LICENSE`](LICENSE): MIT license.
 
 ## License

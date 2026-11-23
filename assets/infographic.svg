@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" width="960" height="380" role="img" aria-labelledby="title desc">
+  <title id="title">How Brief and Details shapes a reply</title>
+  <desc id="desc">A substantive reply starts with a summary, may include next steps, and ends with details. Details collapse in T3 Code and the Claude desktop app when the visual tool is available, and appear under a plain heading elsewhere. Trivial replies skip this structure.</desc>
+  <rect width="960" height="380" rx="24" fill="#f0fdfa"/>
+  <text x="40" y="55" fill="#134e4a" font-family="Arial, sans-serif" font-size="26" font-weight="700">A clear answer, with depth when you need it</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="40" y="82" width="276" height="150" rx="16" fill="#ffffff" stroke="#99d8ce"/>
+    <circle cx="72" cy="115" r="16" fill="#0f766e"/><text x="72" y="121" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">1</text>
+    <text x="98" y="121" fill="#134e4a" font-size="20" font-weight="700">Summary</text>
+    <text x="62" y="158" fill="#334e4b" font-size="16">2–4 short points on the</text>
+    <text x="62" y="182" fill="#334e4b" font-size="16">outcome and any limits</text>
+    <rect x="342" y="82" width="276" height="150" rx="16" fill="#ffffff" stroke="#99d8ce"/>
+    <circle cx="374" cy="115" r="16" fill="#0f766e"/><text x="374" y="121" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">2</text>
+    <text x="400" y="121" fill="#134e4a" font-size="20" font-weight="700">Next steps</text>
+    <text x="364" y="158" fill="#334e4b" font-size="16">1–3 useful options,</text>
+    <text x="364" y="182" fill="#334e4b" font-size="16">when appropriate</text>
+    <rect x="644" y="82" width="276" height="150" rx="16" fill="#ffffff" stroke="#99d8ce"/>
+    <circle cx="676" cy="115" r="16" fill="#0f766e"/><text x="676" y="121" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">3</text>
+    <text x="702" y="121" fill="#134e4a" font-size="20" font-weight="700">Details</text>
+    <text x="666" y="158" fill="#334e4b" font-size="16">Steps, evidence, decisions</text>
+    <text x="666" y="182" fill="#334e4b" font-size="16">and verification</text>
+    <path d="M316 157h26 M618 157h26" stroke="#0f766e" stroke-width="3"/>
+    <rect x="40" y="254" width="880" height="86" rx="16" fill="#ccfbf1"/>
+    <text x="62" y="284" fill="#134e4a" font-size="16" font-weight="700">How details appear</text>
+    <text x="62" y="309" fill="#334e4b" font-size="15">Collapsible in T3 Code and supported Claude desktop sessions · Plain heading elsewhere</text>
+    <text x="40" y="366" fill="#426a64" font-size="14">Trivial replies skip this structure. Only the final reply is reformatted.</text>
+  </g>
+</svg>
