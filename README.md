@@ -24,7 +24,7 @@ Trivial replies (a greeting, a one-line answer, a clarifying question) skip the 
 | T3 Code | A collapsible `<details><summary>Details: what I did</summary>` block written inline in the reply, closed by default. |
 | Terminal, anything else | A plain `## Details: what I did` heading with the text below it, always visible. |
 
-The desktop chat view cannot collapse Markdown and prints raw `<details>` tags as literal text, so the style writes them only in T3 Code, which renders inline HTML. If the desktop signals are missing (the app is not detected or the visual tool is unavailable), the plain heading is used.
+The desktop chat view cannot collapse Markdown and prints raw `<details>` tags as literal text, so the style writes them only in T3 Code, which renders inline HTML. In the desktop app the plain heading is treated as a mistake, not an alternative: the summary is written first and the widget is the last thing in the turn, with nothing after it. The plain heading is used only if the widget call actually fails or the tool is absent, never raw tags.
 
 ## Quick start
 
